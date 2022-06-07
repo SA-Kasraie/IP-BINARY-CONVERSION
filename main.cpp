@@ -14,10 +14,6 @@ int main() {
 
   std::string ip, Soctet, binary;
 
-
-  std::string fuck = "hell";
-
-
   while (1) {
 
       binary = "";
