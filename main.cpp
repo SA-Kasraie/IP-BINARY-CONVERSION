@@ -1,4 +1,4 @@
-////////////////////IP-BINARY-CONVERSION///////////////
+////////////////////IPv4-BINARY-CONVERSION///////////////
 #include <iostream>
 
 using std:: cin;
