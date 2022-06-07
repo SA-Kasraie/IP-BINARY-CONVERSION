@@ -7,7 +7,6 @@ using std:: to_string;
 
 int main() {
 
-
   std::ios::sync_with_stdio (false);
 
   int list, Ioctet = 0, i;
